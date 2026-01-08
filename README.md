@@ -34,10 +34,4 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
   <br/>
-  <br/>
-
-  ## ⚡ GitHub Stats
-  <!-- 아래 username= 뒤에 본인 아이디를 넣으세요 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=soobeen27&show_icons=true&theme=dark" alt="stats" />
-
 </div>
