@@ -2,7 +2,7 @@
 
   # 👋 Hi there!
 
-  ### 안녕하세요 
+  프론트엔드를 공부중입니다
 
   <br/>
   <br/>
@@ -39,6 +39,6 @@
 
   ## ⚡ GitHub Stats
   <!-- 아래 username= 뒤에 본인 아이디를 넣으세요 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=transparent" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soobeen27&show_icons=true&theme=transparent" alt="stats" />
 
 </div>
